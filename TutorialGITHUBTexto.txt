@@ -1,0 +1,24 @@
+Olá pessoal.
+
+Me chamo Peterson Procopio e juntamente ao Julio Stecanella  criamos este tutorial para ensinar como enviar um projeto para o GITHUB e falar um pouco sobre ela.
+- Baixar o GIT e instalar;
+- Efetuar o cadastro no site da GITHUB;
+- Criação do Repositório;
+- Abertura do CMD;
+- Selecionar a pasta do projeto; 
+-cd Documents
+-cd nome pasta;
+- cd dir; (aparecer todos os arquivos da pasta)
+- rd . git /S/Q; ( Para limpar qualquer arquivo git na pasta)
+- git init;  ( iniciar um repositório)
+- git add . ( ponto para add todos os arquivos da pasta)
+- git commit –m “nome a desejar”;
+- loguin no git ;
+- git remote add origin + link diretório criado no github;
+- git push  -u origin máster ( enviar todos os arquivos para o github);
+- Como deletar um projeto do github;
+- Sobre as estrelas no github;
+- Sobre a facilidade de utilizar o projeto fora do seu pc;
+- facilitade de estudar o projeto de outras pessoas e aprender mais a cada dia;
+
+É isso pessoal, esse é meu primeiro vídeo e espero ter esclarecido alguns pontos para vocês sobre a ferramenta de versionamento chamada GITHub. Obrigado!
